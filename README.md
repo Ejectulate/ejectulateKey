@@ -7,6 +7,6 @@ After all, we're all in this together.
 >* Download and install [no eject delay](https://pqrs.org/osx/karabiner/noejectdelay.html.en)
 >* Download and install our script
 >* Go to System Preferences -> Keyboard -> Shortcuts -> Services -> General -> Ejectulate
->>* Create a shortcut (cmd + option + ctrl + shift + E)
+>* Create a shortcut (cmd + option + ctrl + shift + E)
 >* Within Karabiner go to Change Key
->>* Map the Eject key to the shortcut above
+>* Map the Eject key to the shortcut above
