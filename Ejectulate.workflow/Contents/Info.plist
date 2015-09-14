@@ -8,7 +8,7 @@
 			<key>NSMenuItem</key>
 			<dict>
 				<key>default</key>
-				<string>Open Keplar Website</string>
+				<string>Ejectulate</string>
 			</dict>
 			<key>NSMessage</key>
 			<string>runWorkflowAsService</string>
