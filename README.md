@@ -10,3 +10,5 @@ After all, we're all in this together.
 >* Create a shortcut (cmd + option + ctrl + shift + E)
 >* Within Karabiner go to Change Key
 >* Map the Eject key to the shortcut above
+
+[Ejectulate](http://ejectulate.com/)
